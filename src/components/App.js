@@ -3,7 +3,7 @@ import styles from './App.css';
 
 const App = () => (
   <div className={styles.app}>
-    <h1>Hello!</h1>
+    <h1>Webpack React HMR Demo!</h1>
   </div>
 );
 
